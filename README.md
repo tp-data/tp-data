@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I'm Trevor.
 
-<!--
-**tp-data/tp-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github profile. Most of my repositories are _private_ but you can access the final versions through my website (see info section).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+<!-- - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+Skills: Python, SQL, Jupyter, Tableau, Learning Web Dev
+
+<!-- Contact:  -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tp-data&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
