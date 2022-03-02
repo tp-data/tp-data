@@ -14,5 +14,6 @@ Welcome to my Github profile. Most of my repositories are _private_ but you can 
 Skills: Python, SQL, Jupyter, Tableau, Learning Web Dev
 
 <!-- Contact:  -->
-
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tp-data&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ -->
