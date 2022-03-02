@@ -8,11 +8,6 @@ Welcome to my Github profile!
 - 😄 Pronouns: He/Him
 - 🐕 Fun fact: My dog is named after the last Avatar 🌊 
 
-
-<!-- Contact:  -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tp-data&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- -->
 **Skills:** Python, SQL, Jupyter, Tableau, Learning Web Dev
 
 Most of my repositories are _private_ but you can access the most recent versions through my website.
