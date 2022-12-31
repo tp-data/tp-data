@@ -2,13 +2,13 @@
 
 Welcome to my Github profile!
 
-- 🌱 I’m developing a website to host personal data projects 
-- 📖 I’m currently learning about dbt and Looker
-- 🎨 I’m passionate about combining art, design, and data visualization
+- 🌱 I’m developing a deeper understanding of analytical engineering and data infrastructure
+- 📖 I’m actively learning about dbt standards and best practices
+- 🤖 I’m passionate about sharing data knowledge with others and driving process efficiency
 - 😄 Pronouns: He/Him
 - 🐕 Fun fact: My dog is named after the last Avatar 🌊 
 
-**Skills:** Python, SQL, Jupyter, Tableau, Learning Web Dev
+**Skills:** Python, SQL, dbt, Jupyter, Tableau, Looker, Web Dev
 
 Most of my repositories are _private_ but you can access the most recent versions through my website.
 
