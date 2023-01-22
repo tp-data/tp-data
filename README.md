@@ -9,9 +9,9 @@ Hi there 👋 I'm Trevor, and welcome to my Github profile.
 - 🐕 Fun fact: My dog is named after the last Avatar 🌊 
 
 ## Contact
-* Connect on [Linkedin]([url](https://www.linkedin.com/in/trevorpahigian/))
-* Visit my [personal website]([url](https://www.trevorpahigian.com))
-* Access analytics on my [Tableau profile]([url](https://public.tableau.com/app/profile/trevor7094))
+* Connect on [Linkedin](https://www.linkedin.com/in/trevorpahigian/)
+* Visit my [personal website](https://www.trevorpahigian.com)
+* Access analytics on my [Tableau profile](https://public.tableau.com/app/profile/trevor7094)
 
 ## Git Stats
 
