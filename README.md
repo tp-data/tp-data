@@ -15,6 +15,6 @@ Hi there 👋 I'm Trevor, and welcome to my Github profile.
 
 ## Git Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tp-data&hide=jupyter%20notebook&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tp-data&hide=jupyter%20notebook&theme=dracula&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tp-data&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tp-data&theme=dracula&hide_border=true)](https://git.io/streak-stats)
