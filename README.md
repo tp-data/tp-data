@@ -2,11 +2,11 @@
 
 Hi there 👋 I'm Trevor, and welcome to my Github profile. 
 
-- 🌱 I’m developing a deeper understanding of analytical engineering and data infrastructure
-- 📖 I’m actively learning about dbt standards and best practices
-- 🤖 I’m passionate about sharing data knowledge with others and driving process efficiency
+- 🌱 I’m developing a deeper understanding of analytics engineering and data modeling
+- 📖 I’m actively learning about dbt, focusing on best practices and process optimization
+- 🤖 I’m passionate about sharing data knowledge with others and driving technical adoption
 - 😄 Pronouns: He/Him
-- 🐕 Fun fact: My dog is named after the last Avatar 🌊 
+- 🐕 Fun fact: My dog is named after the Avatar 🌊🔥🪨🌬️
 
 ## Contact
 * Connect on [Linkedin](https://www.linkedin.com/in/trevorpahigian/)
